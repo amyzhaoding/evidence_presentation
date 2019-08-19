@@ -12,7 +12,10 @@ Graphical methods for showing the data are integrated into <a href="https://www.
 <strong>ASQ paper development workshop materials</strong>
 <ol>
 	<li><a href="http://www.henrichgreve.com/uploads/7/2/2/0/72202341/webposting.pdf">2017 ASQ paper development workshop</a>, AOM in Atlanta</li>
-	<li></li>
+	<li><a href="https://github.com/amyzhaoding/evidence_presentation/blob/master/Aruna%20Ranganathan_Evidence%20PDW_AOM_2019.pdf">2019 Evidence PDW Aruna Ranganathan presentation</a>, AOM in Boston</li>
+	<li><a href="https://github.com/amyzhaoding/evidence_presentation/blob/master/Teodoridis%2C%20Mikard%2C%20Vakili_Evidence%20PDW_AOM%202019.pdf">2019 Evidence PDW Florenta Teodoridis, Michael Bikard, Keyvan Vakili presentation</a>, AOM in Boston</li>
+	<li><a href="https://github.com/amyzhaoding/evidence_presentation/blob/master/Ryan%20Raffaelli_Evidence%20PDW_AOM2019.pdf">2019 Evidence PDW Ryan Raffaelli presentation</a>, AOM in Boston</li>
+	<li><a href="https://github.com/amyzhaoding/evidence_presentation/blob/master/Chris%20Yenkey_Evidence%20PDW_AOM%202019.pdf">2019 Evidence PDW Chris Yenkey presentation</a>, AOM in Boston</li>
 </ol>
 <strong>ASQ Editor's examples</strong>
 <ol>
