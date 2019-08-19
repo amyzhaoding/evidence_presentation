@@ -29,6 +29,12 @@ Graphical methods for showing the data are integrated into <a href="https://www.
 </ol>
 <strong>Exemplary papers</strong>
 <ol>
+	<li><a href="https://journals.sagepub.com/doi/10.1177/0001839217725782">The Artisan and His Audience</a>: ASQ article by Aruna Ranganathan, featured in AOM 2019 Evidence Presentation PDW</li>
+	<li><a href="https://journals.sagepub.com/doi/full/10.1177/0001839218793384">Creativity at the Knowledge Frontier</a>: ASQ article by Florenta Teodoridis, Michael Bikard, and Keyvan Vakili, featured in AOM 2019 Evidence Presentation PDW</li>
+	<li><a href="https://journals.sagepub.com/doi/10.1177/0001839218778505">Technology Reemergence</a>: ASQ article by Ryan Raffaelli, featured in AOM 2019 Evidence Presentation PDW</li>
+	<li><a href="https://journals.sagepub.com/doi/10.1177/0001839215597269">Mobilizing a Market</a>: ASQ article by Chris Yenkey, featured in AOM 2019 Evidence Presentation PDW</li>
+	<li><a href="https://www.journals.uchicago.edu/doi/abs/10.1086/700694">The Outsider’s Advantage</a>: AJS article by Chris Yenkey, featured in AOM 2019 Evidence Presentation PDW</li>
+	<li><a href="https://journals.sagepub.com/doi/full/10.1177/0001839217694359">Fraud and Market Participation</a>: ASQ article by Chris Yenkey, featured in AOM 2019 Evidence Presentation PDW</li>
 	<li><a href="https://www.cambridge.org/core/journals/management-and-organization-review/article/an-alternative-way-to-make-knowledge-sharing-work-in-online-communities-the-effects-of-hidden-knowledge-facilitators/F0E3FEC4A1505D9556E22E8446CE7F1F/core-reader">Facilitate knowledge sharing in online communities</a>: MOR article with neat use of scatter plots</li>
 </ol>
 <strong>Tools using Stata</strong>
