@@ -1,5 +1,5 @@
 # Evidence Presentation
-<em>This is a post that contains resources and tools to improve evidence presentation, echoing one of ASQ's most important initiatives. This page is updating with the ASQ blog page https://asqblog.com/2017/11/29/asq-improving-evidence-presentation-resources-and-tools/</em>
+<em>This is a post that contains resources and tools to improve evidence presentation, echoing one of ASQ's most important initiatives. This page is syncing with the ASQ blog page https://asqblog.com/2017/11/29/asq-improving-evidence-presentation-resources-and-tools/, and you are welcome to submit a pull request if you want to contribute! </em>
 
 <strong>What is ASQ Improving Evidence Presentation initiative?(#ASQEvidencePresentation)</strong>
 
